@@ -1,0 +1,80 @@
+
+# ========== Archivos y carpetas comunes de Unity ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+Assets/AssetStoreTools*
+
+# ========== Archivos del sistema ==========
+.DS_Store
+*.swp
+*.lock
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.exe
+*.dll
+*.log
+*.vsconfig
+*.apk
+*.aab
+*.orig
+
+# ========== IDEs ==========
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.sln.meta
+
+# ========== Archivos de colisión y conflicto ==========
+*.mergebackup
+*.bak
+*.tmp
+
+# ========== Archivos generados por paquetes ==========
+obj/
+*.generated.cs
+
+# ========== Archivos personales o de configuración local ==========
+*.tmPreferences
+*.sublime-workspace
+*.sublime-project
+
+# ========== Archivos de macOS y Windows ==========
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+Icon?
+*.lnk
+
+# ========== Rider (IDE JetBrains) ==========
+.idea/
+*.sln.iml
+*.dotCover
+*.sln.DotSettings
+*.unity.DotSettings
+
+# ========== Otros ==========
+*.crash
+*.ncb
+*.psess
+*.vsp
+*.vspx
+*.vssscc
+*.vspscc
+*.cache
+*.pidb.meta

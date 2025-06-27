@@ -30,3 +30,65 @@ MaxPrintPages = 4294967295
 GdiPlusToken = 56139156
 ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
 20-06-2025	08:39:03.954	 INFO	 35972	 31580	LateInitialization	"Intialization finished"
+26-06-2025	20:09:49.872	 INFO	101752	102176	DllMain	"DLL_PROCESS_ATTACH Fri Apr  4 13:27:46 2025 11.4.2500.24"
+26-06-2025	20:09:49.886	 INFO	101752	102176	DllMain	"PROCESS ATTACHED"
+26-06-2025	20:09:49.888	 INFO	101752	101952	LateInitialization	"Intialization..."
+26-06-2025	20:09:49.897	 INFO	101752	101952	LoadDisplayDevicesName	"DisplayDevices : "
+26-06-2025	20:09:49.906	 INFO	101752	101952	LoadDisplayDevicesName	"\\.\DISPLAY1"
+26-06-2025	20:09:49.915	 INFO	101752	101952	LoadDisplayDevicesName	"\\.\DISPLAY2"
+26-06-2025	20:09:49.922	 INFO	101752	101952	LoadDisplayDevicesName	"\\.\DISPLAY3"
+26-06-2025	20:09:49.928	 INFO	101752	101952	LoadDisplayDevicesName	"\\.\DISPLAY4"
+26-06-2025	20:09:52.950	ERROR	101752	101952	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813
+"
+26-06-2025	20:09:52.955	 INFO	101752	101952	LateInitialization	"Exe = C:\Program Files\Git\usr\bin\bash.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 208436953
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+26-06-2025	20:09:52.962	 INFO	101752	101952	LateInitialization	"Intialization finished"
+26-06-2025	20:14:12.502	 INFO	 17108	100584	DllMain	"DLL_PROCESS_ATTACH Fri Apr  4 13:27:46 2025 11.4.2500.24"
+26-06-2025	20:14:12.505	 INFO	 17108	100584	DllMain	"PROCESS ATTACHED"
+26-06-2025	20:14:12.506	 INFO	 17108	 99432	LateInitialization	"Intialization..."
+26-06-2025	20:14:12.507	 INFO	 17108	 99432	LoadDisplayDevicesName	"DisplayDevices : "
+26-06-2025	20:14:12.508	 INFO	 17108	 99432	LoadDisplayDevicesName	"\\.\DISPLAY1"
+26-06-2025	20:14:12.509	 INFO	 17108	 99432	LoadDisplayDevicesName	"\\.\DISPLAY2"
+26-06-2025	20:14:12.510	 INFO	 17108	 99432	LoadDisplayDevicesName	"\\.\DISPLAY3"
+26-06-2025	20:14:12.510	 INFO	 17108	 99432	LoadDisplayDevicesName	"\\.\DISPLAY4"
+26-06-2025	20:14:15.524	ERROR	 17108	 99432	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813
+"
+26-06-2025	20:14:15.525	 INFO	 17108	 99432	LateInitialization	"Exe = C:\Program Files\Git\usr\bin\bash.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 208699531
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+26-06-2025	20:14:15.526	 INFO	 17108	 99432	LateInitialization	"Intialization finished"
+26-06-2025	20:14:18.117	 INFO	102112	102092	DllMain	"DLL_PROCESS_ATTACH Fri Apr  4 13:27:46 2025 11.4.2500.24"
+26-06-2025	20:14:18.122	 INFO	102112	102092	DllMain	"PROCESS ATTACHED"
+26-06-2025	20:14:18.124	 INFO	102112	 27356	LateInitialization	"Intialization..."
+26-06-2025	20:14:18.125	 INFO	102112	 27356	LoadDisplayDevicesName	"DisplayDevices : "
+26-06-2025	20:14:18.127	 INFO	102112	 27356	LoadDisplayDevicesName	"\\.\DISPLAY1"
+26-06-2025	20:14:18.129	 INFO	102112	 27356	LoadDisplayDevicesName	"\\.\DISPLAY2"
+26-06-2025	20:14:18.130	 INFO	102112	 27356	LoadDisplayDevicesName	"\\.\DISPLAY3"
+26-06-2025	20:14:18.131	 INFO	102112	 27356	LoadDisplayDevicesName	"\\.\DISPLAY4"
+26-06-2025	20:14:19.259	 INFO	 46740	 19432	DllMain	"DLL_PROCESS_ATTACH Fri Apr  4 13:27:46 2025 11.4.2500.24"
+26-06-2025	20:14:19.266	 INFO	 46740	 19432	DllMain	"PROCESS ATTACHED"
+26-06-2025	20:14:19.268	 INFO	 46740	 29156	LateInitialization	"Intialization..."
+26-06-2025	20:14:19.270	 INFO	 46740	 29156	LoadDisplayDevicesName	"DisplayDevices : "
+26-06-2025	20:14:19.272	 INFO	 46740	 29156	LoadDisplayDevicesName	"\\.\DISPLAY1"
+26-06-2025	20:14:19.274	 INFO	 46740	 29156	LoadDisplayDevicesName	"\\.\DISPLAY2"
+26-06-2025	20:14:19.276	 INFO	 46740	 29156	LoadDisplayDevicesName	"\\.\DISPLAY3"
+26-06-2025	20:14:19.278	 INFO	 46740	 29156	LoadDisplayDevicesName	"\\.\DISPLAY4"
